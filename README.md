@@ -10,7 +10,11 @@ Welcome to my GitHub repository showcasing projects built using **Java** and **P
 ### 2. **F1 Lights Out**
    *The project is a simple F1 drawing with a circle dragging rainbow coloured effect.*
 
+### 3. **Chess board using Processing**
 
+* It is a simple chessboard using processing*
+
+  
 ## Getting Started
 
 To run these projects, you’ll need to install [Processing](https://processing.org/download/) and set up your Java development environment.
