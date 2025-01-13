@@ -5,7 +5,7 @@ Welcome to my GitHub repository showcasing projects built using **Java** and **P
 ## Featured Projects:
 
 ### 1. **3D Matrix Ball Rotation**
-   *"An interactive visual with two circles moving in circular paths, each changing color and position over time.".*
+   *An interactive visual with two circles moving in circular paths, each changing color and position over time.*
 
 ### 2. **F1 Lights Out**
    *The project is a simple F1 drawing with a circle dragging rainbow coloured effect.*
